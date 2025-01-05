@@ -48,6 +48,6 @@ The project defines measurable goals for societal and operational improvement.
      b)Volunteer Management: Links tasks to volunteers for accountability.
      c)Data Visibility: Dashboards and reports improve decision-making and transparency.
    
-9. Conclusion
+### 9. Conclusion
       The Salesforce Food Connect App successfully enhances food distribution efficiency by leveraging Salesforce's capabilities. It improves coordination and            transparency in food donation efforts, addressing food insecurity and maximizing resource utilization.
 
