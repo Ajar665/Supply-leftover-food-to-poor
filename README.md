@@ -10,8 +10,8 @@ Technology: Salesforce tools manage records, workflows, and data visualization, 
 ### 2. Objectives
 The project defines measurable goals for societal and operational improvement.
 ### a)Business Goals
-    Address societal issues like food waste and hunger.
-    Enhance operations, transparency, and accountability.
+    -*Address societal issues like food waste and hunger.*
+    -*Enhance operations, transparency, and accountability.*
 ### b)Specific Outcomes
       Deliverables include:
         Custom objects: Drop-Off Point, Task, Volunteer, and Execution Detail.
